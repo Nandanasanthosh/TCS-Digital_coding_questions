@@ -25,6 +25,4 @@ public class Palindrome {
         return resl;
     }
 }
-class Result{
-   
-}
+
