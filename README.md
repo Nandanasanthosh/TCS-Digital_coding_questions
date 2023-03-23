@@ -13,8 +13,8 @@ Problem 4: Alice's game launch testing
 
 Problem 5: Reddington stock investing
 
-Problem 6: 
+Problem 6: Complete the word
 
-Problem 7: 
+
 
 (Solutions in java)
